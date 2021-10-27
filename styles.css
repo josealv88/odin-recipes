@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
 }
 
 .moms-recipes {
@@ -12,7 +13,51 @@ ul {
     text-align: center;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: bold;
+    color: green;
 }    
 
-body{
-    background-color: red;
+body {
+    background-color: black;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+.carne-asada-pic {
+    margin: auto;
+    display: block;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: red;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+}
+
+.enchiladas-pic {
+    display: block;
+    margin: auto;
+}
+
+li {
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+
+.pozole-pic {
+    margin: auto;
+    display: block;
+}
